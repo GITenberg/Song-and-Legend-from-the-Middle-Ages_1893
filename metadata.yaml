@@ -1,0 +1,35 @@
+_repo: Song-and-Legend-from-the-Middle-Ages_1893
+contributor:
+  compilers:
+  - agent_name: MacClintock, Porter Lander
+    alias: McClintock, Porter Lander
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '740'
+    url: http://www.gutenberg.org/2009/agents/740
+  - agent_name: MacClintock, William Darnall
+    aliases:
+    - MacClintock, W. D. (William Darnall)
+    - McClintock, William D. (William Darnall)
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '739'
+    url: http://www.gutenberg.org/2009/agents/739
+description: ''
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chautauqua reading circle literature
+subjects:
+- !lcsh 'Literature, Medieval -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'Literature, Medieval -- Translations into English'
+tableOfContents: French literature -- Spanish literature -- Scandinavian literature
+  -- German literature -- Italian literature.
+title: Song and Legend from the Middle Ages
+url: http://www.gutenberg.org/ebooks/1893
