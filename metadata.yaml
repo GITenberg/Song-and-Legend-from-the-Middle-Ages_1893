@@ -1,5 +1,5 @@
 _repo: Song-and-Legend-from-the-Middle-Ages_1893
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compilers:
   - agent_name: MacClintock, Porter Lander
@@ -16,7 +16,12 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '739'
     url: http://www.gutenberg.org/2009/agents/739
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1893#Song-and-Legend-from-the-Middle-Ages
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
 identifiers:
