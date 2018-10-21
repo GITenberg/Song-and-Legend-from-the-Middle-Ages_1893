@@ -1,5 +1,5 @@
 _repo: Song-and-Legend-from-the-Middle-Ages_1893
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   compilers:
   - agent_name: MacClintock, Porter Lander
@@ -35,6 +35,7 @@ subjects:
 - !lcsh 'Literature, Medieval -- History and criticism'
 - !lcc 'PN'
 - !lcsh 'Literature, Medieval -- Translations into English'
+- GITenberg
 tableOfContents: French literature -- Spanish literature -- Scandinavian literature
   -- German literature -- Italian literature.
 title: Song and Legend from the Middle Ages
